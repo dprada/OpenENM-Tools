@@ -1,0 +1,12 @@
+channels:
+- uibcdf/label/dev
+- uibcdf
+- conda-forge
+- defaults
+dependencies:
+- jupyterlab
+- numpy
+- matplotlib
+- openmm
+- nglview
+- mdtraj
