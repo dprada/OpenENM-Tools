@@ -11,4 +11,5 @@ development:
     - openmm
     - nglview
     - mdtraj
+    - tqdm
 
