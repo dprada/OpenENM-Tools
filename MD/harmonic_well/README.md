@@ -18,3 +18,7 @@
 - Can the integration step be as big as you wish? Can the integration step be 0.1ps? and 10ps? and
   2s?
 
+- Given a long enough trajectory, compute the covariance matrix and obtain the eigenvectors and
+  eigenvalues (Principal Component Analysis). Compare the principal modes with the normal modes.
+Compare also the $\sigma ^{2}$ of the trajectory associated to each principal mode, with the
+theoretical $\sigma ^{2}$ of each normal mode.
